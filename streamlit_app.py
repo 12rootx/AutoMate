@@ -18,12 +18,9 @@ from config import DATA_PATH
 from utils import discover_files
 
 
-icon = Image.open("/Users/rootx/Downloads/icon.png")
-
 st.set_page_config(
     page_title="Multi-Agent Data Analysis System",
-    page_icon=icon,
-    #page_icon="🤖",
+    page_icon="🤖",
     layout="wide"
 )
 
