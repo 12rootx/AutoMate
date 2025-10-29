@@ -141,9 +141,10 @@ The codebase follows a modular, functional approach:
 - Clear separation of concerns
 
 
-## 📄 License
+## 📄 License  
+This project was developed as part of the **iLab program** for the **Master of Data Science and Innovation (MDSI)** at the **University of Technology Sydney (UTS)**.  
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ## 🙏 Acknowledgments
 
